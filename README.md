@@ -1,6 +1,6 @@
 ## Olá!!! Eu sou a Laura Araújo
 
-- 🌱 Estou estudando Java, MySql, Css, Hmtl, Angular
+- 🌱 Conhecimentos: Java, MySql, Css, Hmtl, Angular
 <div align="left">
   <a href="https://github.com/Laulaav">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laulaav&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
